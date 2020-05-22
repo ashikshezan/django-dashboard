@@ -1,47 +1,47 @@
 
 from django.shortcuts import render
 from django.contrib.auth.decorators import login_required
+import pandas as pd
+from .models import Dashboard
 
-from plotly.offline import plot
-from plotly.graph_objs import Scatter
-import plotly.graph_objs as go
-import numpy as np
-
-# from .models import TestModel
-
+from .custome_ploty_charts import get_chart, plot_pei_chart, get_top_amounts, plot_bar_chart
 # Create your views here.
 
 
 @login_required
 def dashboar_view(request, *args, **kwargs):
-    # data = TestModel.objects.values_list('num', flat=True)
-    # print(data)
+    context = dict()
+    # temporarily getting the data from the data.csv file
+    df = pd.read_csv('data.csv')
+    df = clean_data(df)
 
-    # plot_div = get_chart(list(data))
-    plot_div = 'asd'
-    return render(request, template_name='pages/dashboard.html', context={'plot_div': plot_div})
+    # Plotting the barchart
+    bar_data = get_top_amounts(df, 'month')
+    context['bar_plot'] = plot_bar_chart(bar_data)
+
+    # Plotting Pie chart
+    pie_data = get_top_amounts(df, 'directorate')
+    context['pie_plot'] = plot_pei_chart(pie_data)
+
+    # Plotting Pie chart
+    pie_data2 = get_top_amounts(df, 'department')
+    context['pie_plot2'] = plot_pei_chart(pie_data2)
+
+    return render(request, template_name='pages/dashboard.html', context=context)
 
 
-def get_chart(data):
-    axis_x = np.linspace(1, 101, 100)
-    axis_y = np.random.randn(100)
+def clean_data(df):
+    df.columns = [
+        'directorate',
+        'department',
+        'expenditure_type',
+        'ref_doc_1',
+        'vendor_name',
+        'expenditure_amount',
+        'payment_date']
 
-    # number of graphs
-    trace0 = go.Scatter(x=data, y=data, mode='markers', name='scatter')
-    trace1 = go.Scatter(x=axis_x, y=axis_y + 5, mode='lines', name='line')
-    trace2 = go.Scatter(x=axis_x, y=axis_y - 5,
-                        mode='lines+markers', name='scatter_line')
-
-    # gathering data
-    data = [trace0, trace1, trace2]
-
-    # graph layour/styling
-    layout = go.Layout(
-        title='A Random Scatter Graph',
-    )
-
-    # making a figure consists => data, layout
-    fig = go.Figure(data=data, layout=layout)
-
-    plot_div = plot(fig, output_type='div', include_plotlyjs=False)
-    return plot_div
+    df['payment_date'] = pd.to_datetime(df['payment_date'])
+    df['year'] = pd.DatetimeIndex(df['payment_date']).year
+    df['month'] = pd.DatetimeIndex(df['payment_date']).month
+    df['month'] = df['payment_date'].map(lambda x: x.strftime('%B'))
+    return df

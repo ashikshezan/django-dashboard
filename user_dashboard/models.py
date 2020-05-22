@@ -7,7 +7,7 @@ User = settings.AUTH_USER_MODEL
 
 
 class Dashboard(models.Model):
-    # user = models.ForeignKey(User, on_delete=models.CASCADE)
+    user = models.ForeignKey(User, on_delete=models.CASCADE)
     directorate = models.CharField(max_length=200)
     department = models.CharField(max_length=200)
     expenditure_type = models.CharField(max_length=200)
