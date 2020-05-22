@@ -5,6 +5,7 @@ import pandas as pd
 import numpy as np
 
 
+# A random Chart
 def get_chart():
     axis_x = np.linspace(1, 101, 100)
     axis_y = np.random.randn(100)

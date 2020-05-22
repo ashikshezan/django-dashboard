@@ -14,4 +14,4 @@ class Dashboard(models.Model):
     ref_doc_1 = models.IntegerField()
     vendor_name = models.CharField(max_length=200)
     expenditure_Amount = models.DecimalField(decimal_places=2, max_digits=10)
-    # payment_date = models.DateField()
+    payment_date = models.DateField()
