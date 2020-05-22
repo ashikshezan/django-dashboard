@@ -20,14 +20,12 @@
                 </div>
             </div>
         </div>
-
-
-        <h5>Charts</h5><a class="anchor" name="charts"></a>
+        <h5></h5><a class="anchor" id="bar-chart" name="charts"></a>
         <div class="row grid-responsive">
             <div class="column column-90">
                 <div class="card">
                     <div class="card-title">
-                        <h2>Line Chart</h2>
+                        <h2>Expenditure by month</h2>
                     </div>
                     <div class="card-block">
                         {{ bar_plot | safe }}
@@ -35,12 +33,12 @@
                 </div>
             </div>
         </div>
-        <h5>Charts</h5><a class="anchor" name="charts"></a>
+        <h5></h5><a class="anchor" id="pie-chart" name="charts"></a>
         <div class="row grid-responsive">
             <div class="column column-50">
                 <div class="card">
                     <div class="card-title">
-                        <h2>Pie Chart</h2>
+                        <h2>Expenditure by Departments</h2>
                     </div>
                     <div class="card-block">
                         {{ pie_plot | safe }}
@@ -50,7 +48,7 @@
             <div class="column column-50">
                 <div class="card">
                     <div class="card-title">
-                        <h2>Pie Chart</h2>
+                        <h2>Expenditure by Directorate</h2>
                     </div>
                     <div class="card-block">
                         {{ pie_plot2 | safe }}
@@ -58,14 +56,10 @@
                 </div>
             </div>
         </div>
-
-
     </section>
-
     {% endblock content %}
 
     <div class="canvas-wrapper">
         <canvas class="chart" id="line-chart" height="auto" width="auto"></canvas>
     </div>
-
 </div>
