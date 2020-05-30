@@ -23,38 +23,41 @@
                 </div>
             </div>
         </div>
-        <h5></h5><a class="anchor" id="bar-chart" name="charts"></a>
+        <h5></h5><a class="anchor" id="bar_chart_yearly" name="charts"></a>
         <div class="row grid-responsive">
-            <div class="column column-90">
+            <div class="column column-100">
                 <div class="card">
                     <div class="card-title">
                         <h2>Expenditure by month</h2>
                     </div>
                     <div class="card-block">
-                        {{ bar_plot | safe }}
+                        {{ bar_chart_yearly | safe }}
                     </div>
                 </div>
             </div>
         </div>
-        <h5></h5><a class="anchor" id="pie-chart" name="charts"></a>
+        <h5></h5><a class="anchor" id="pie_plot_dropdown" name="charts"></a>
         <div class="row grid-responsive">
-            <div class="column column-50">
+            <div class="column column-100">
                 <div class="card">
                     <div class="card-title">
-                        <h2>Expenditure by Departments</h2>
+                        <h2>Expenditure Breakdown</h2>
                     </div>
                     <div class="card-block">
-                        {{ pie_plot | safe }}
+                        {{ pie_plot_dropdown | safe }}
                     </div>
                 </div>
             </div>
-            <div class="column column-50">
+        </div>
+        <h5></h5><a class="anchor" id="time_series" name="time_series"></a>
+        <div class="row grid-responsive">
+            <div class="column column-100">
                 <div class="card">
                     <div class="card-title">
-                        <h2>Expenditure by Directorate</h2>
+                        <h2>Expenditure Timeseries</h2>
                     </div>
                     <div class="card-block">
-                        {{ pie_plot2 | safe }}
+                        {{ time_series | safe }}
                     </div>
                 </div>
             </div>
