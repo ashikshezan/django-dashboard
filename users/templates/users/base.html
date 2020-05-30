@@ -1,0 +1,27 @@
+{% extends 'user_dashboard/base.html' %}
+{% load crispy_forms_tags %}
+{% block content %}
+<div class="row">
+    <section id="main-content" class="column column-offset-20">
+        <div class="row grid-responsive">
+            <div class="column column-80">
+                <!-- Form gose here -->
+                <div class="card">
+                    <div class="card-title">
+                        <h2>
+                            {% block user_form_title %}
+                            {% endblock user_form_title %}
+                        </h2>
+                    </div>
+                    <div class="card-block">
+                        {% block user %}
+
+                        {% endblock user %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+
+{% endblock content %}

@@ -43,6 +43,7 @@ INSTALLED_APPS = [
 
     # project apps
     'user_dashboard.apps.UserDashboardConfig',
+    'users.apps.UsersConfig'
 ]
 
 MIDDLEWARE = [

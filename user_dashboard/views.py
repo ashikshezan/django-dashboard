@@ -9,7 +9,7 @@ from . import dashboard_plot_items
 
 
 # Dashboard Home View
-@login_required
+# @login_required
 def dashboar_view(request, *args, **kwargs):
     # Loading Data from Django Model
     dashboard_items = Dashboard.objects.all()

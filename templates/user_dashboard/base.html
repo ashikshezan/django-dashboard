@@ -1,5 +1,4 @@
 {% load static %}
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,10 +24,6 @@
 
 	<!-- Plotly script -->
 	<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-
-	<!--[if lt IE 9]>
-	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->
 </head>
 
 <body>
@@ -38,7 +33,7 @@
 	<!-- This is the main content area -->
 	<div class="row">
 		<!-- Sidebar -->
-		{% include 'components/Sidebar.html' %}
+		<!-- {% include 'components/Sidebar.html' %} -->
 		<!-- Dashboard -->
 		{% block content %}
 		{% endblock content %}
