@@ -5,6 +5,17 @@
     <section id="main-content" class="column column-offset-20">
         <div class="row grid-responsive">
             <div class="column column-80">
+                {% if messages %}
+                {% for message in messages %}
+                <div class="alert background-{{ message.tags }}">
+                    {{ message }}
+                </div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+        <div class="row grid-responsive">
+            <div class="column column-80">
                 <!-- Form gose here -->
                 <div class="card">
                     <div class="card-title">

@@ -2,9 +2,15 @@
     <h5>Navigation</h5>
     <ul>
         {% if user.is_authenticated %}
-        <li><a href="#"><em class="fa fa-home"></em> Home</a></li>
+        <li><a href="{% url 'home' %}"><em class="fa fa-home"></em> Home</a></li>
+
+    </ul>
+    {% if in_dashboard %}
+    <h5>Charts</h5>
+    <ul>
         <li><a href="#bar-chart"><em class="fa fa-bar-chart"></em> Bar Charts</a></li>
         <li><a href="#pie-chart"><em class="fa fa-bar-chart"></em> Pie Charts</a></li>
         {% endif %}
     </ul>
+    {% endif %}
 </div>

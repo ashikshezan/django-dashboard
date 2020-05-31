@@ -8,7 +8,8 @@ Post List
 {% block content_body %}
 {% for post in posts %}
 <article class="media content-section">
-  <img class="rounded-circle article-img" src="{{ post.author.profile.image.url }}">
+  <img src="{{ post.author.profile.image.url }}" alt="profile photo" class="circle float-left profile-photo p-4"
+    width="50" height="">
   <div class="media-body">
     <div class="article-metadata">
       <a class="mr-2" href="{% url 'user_posts' post.author.username %}">{{ post.author }}</a>

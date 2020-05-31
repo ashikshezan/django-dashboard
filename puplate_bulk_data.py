@@ -1,36 +1,35 @@
 import pandas as pd
 from user_dashboard.models import Dashboard
+from django.contrib.auth.models import User
+# from django.shortcuts import get_object_or_404
 
 
-def format_and_clean_data(data):
-    # Renaming Columns
-    data.columns = [
-        'idd'
-        'directorate',
-        'department',
-        'expenditure_type',
-        'ref_doc_1',
-        'vendor_name',
-        'expenditure_amount',
-        'payment_date']
+data = pd.read_csv('data.csv')
 
-    # Converting payment date to pandas -> Datetime object & Creating 3 new Columns
-    data['payment_date'] = pd.to_datetime(data['payment_date'])
-    data['year'] = pd.DatetimeIndex(data['payment_date']).year
-    data['month'] = pd.DatetimeIndex(data['payment_date']).month
-    # Creating a new column with full month name
-    data['month'] = data['payment_date'].map(lambda x: x.strftime('%B'))
+data.columns = [
+    'directorate',
+    'department',
+    'expenditure_type',
+    'ref_doc_1',
+    'vendor_name',
+    'expenditure_amount',
+    'payment_date']
+# Converting payment date to pandas -> Datetime object & Creating 3 new Columns
+data['payment_date'] = pd.to_datetime(data['payment_date'])
+data['year'] = pd.DatetimeIndex(data['payment_date']).year
+data['month'] = pd.DatetimeIndex(data['payment_date']).month
+# Creating a new column with full month name
+data['month'] = data['payment_date'].map(lambda x: x.strftime('%B'))
 
-    return data
+print(data.head(3))
 
-
-df = pd.read_csv('data.csv')
-df = format_and_clean_data(df)
-print(df.head(3))
-row_iter = df.iterrows()
+user = User.objects.get(pk=1)
+print(user)
+row_iter = data.iterrows()
 
 objs = [
     Dashboard(
+        user=user,
         directorate=row['directorate'],
         department=row['department'],
         expenditure_type=row['expenditure_type'],
@@ -43,3 +42,4 @@ objs = [
 ]
 
 Dashboard.objects.bulk_create(objs)
+

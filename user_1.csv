@@ -1,0 +1,502 @@
+,directorate,department,expenditure_type,ref_doc_1,vendor_name,expenditure_amount,payment_date,year,month
+0,Central Expenses,Central Expenses,Insurance Claims,10010110,BROWNE JACOBSON SOLS.,1965.0,2014-01-10,2014,January
+1,Central Expenses,Central Expenses,Insurance Claims,20011988,OSBORNES SOLICITORS,5435.55,2014-01-10,2014,January
+2,Commissioning Group,Deputy Chief Operating Officer,Publications,10010116,REDACTED - PERSONAL DATA,275.0,2014-01-10,2014,January
+3,Corporate Accounting,Control Accounts,Other Establishments - Third Party Payments,20011984,COPTHALL SCHOOL (ACADEMY),1881.0,2014-01-10,2014,January
+4,Corporate Accounting,Control Accounts,Other Establishments - Third Party Payments,20011986,COPTHALL SCHOOL (ACADEMY),5383.86,2014-01-10,2014,January
+5,Corporate Accounting,Control Accounts,Other Establishments - Third Party Payments,20011985,TOTTERIDGE ACADEMY,4902.0,2014-01-10,2014,January
+6,Delivery Unit,Adults and Communities,Equipment and Materials Purchase,10003212,REDLAND HEALTHCARE LTD,1866.89,2014-01-10,2014,January
+7,Delivery Unit,Adults and Communities,Equipment and Materials Purchase,10009440,THAMES WATER UTILITIES LIMITED,418.86,2014-01-10,2014,January
+8,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039000,AARON COURT CARE HOME,2144.91,2014-01-10,2014,January
+9,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038872,ABBEY RAVENSCROFT PARK NURSING HOME,1125.0,2014-01-10,2014,January
+10,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038851,ARUNDEL CARE SERVICES LTD,4256.0,2014-01-10,2014,January
+11,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038968,ASHBROOKE CARE HOME,2357.14,2014-01-10,2014,January
+12,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038988,ASHFIELDS RESIDENTIAL CARE HOME,2144.91,2014-01-10,2014,January
+13,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038989,ASHFIELDS RESIDENTIAL CARE HOME,2144.91,2014-01-10,2014,January
+14,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039014,B & M CARE,2537.61,2014-01-10,2014,January
+15,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039015,B & M CARE,-392.7,2014-01-10,2014,January
+16,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039016,B & M CARE,2340.0,2014-01-10,2014,January
+17,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039017,B & M CARE,-553.46,2014-01-10,2014,January
+18,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038740,BROOKDALE HEALTHCARE,9000.0,2014-01-10,2014,January
+19,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038741,BROOKDALE HEALTHCARE,9300.0,2014-01-10,2014,January
+20,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038556,BRUNSWICK SUPPORTED LIVING SERVICES,2372.12,2014-01-10,2014,January
+21,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038557,BRUNSWICK SUPPORTED LIVING SERVICES,1321.6,2014-01-10,2014,January
+22,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038558,BRUNSWICK SUPPORTED LIVING SERVICES,1942.84,2014-01-10,2014,January
+23,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038561,BRUNSWICK SUPPORTED LIVING SERVICES,1400.0,2014-01-10,2014,January
+24,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039029,BRUNSWICK SUPPORTED LIVING SERVICES,1412.68,2014-01-10,2014,January
+25,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039021,BUPA CARE HOMES,2244.13,2014-01-10,2014,January
+26,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039022,BUPA CARE HOMES,2487.77,2014-01-10,2014,January
+27,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039023,BUPA CARE HOMES,5357.14,2014-01-10,2014,January
+28,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039024,BUPA CARE HOMES,2340.04,2014-01-10,2014,January
+29,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039025,BUPA CARE HOMES,2144.91,2014-01-10,2014,January
+30,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038978,BUPA NURSING HOMES LTD - ARKLEY,2094.52,2014-01-10,2014,January
+31,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039019,CARE ASSIST LIMITED,4071.43,2014-01-10,2014,January
+32,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039020,CARE ASSIST LIMITED,4071.43,2014-01-10,2014,January
+33,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039047,CARETECH COMMUNITY SERVICES LTD,4620.0,2014-01-10,2014,January
+34,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039048,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+35,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039049,CARETECH COMMUNITY SERVICES LTD,5700.0,2014-01-10,2014,January
+36,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039050,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+37,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039051,CARETECH COMMUNITY SERVICES LTD,8159.44,2014-01-10,2014,January
+38,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039052,CARETECH COMMUNITY SERVICES LTD,6439.16,2014-01-10,2014,January
+39,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039053,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+40,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039054,CARETECH COMMUNITY SERVICES LTD,4478.57,2014-01-10,2014,January
+41,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039055,CARETECH COMMUNITY SERVICES LTD,4478.57,2014-01-10,2014,January
+42,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039056,CARETECH COMMUNITY SERVICES LTD,4478.57,2014-01-10,2014,January
+43,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039057,CARETECH COMMUNITY SERVICES LTD,6339.9,2014-01-10,2014,January
+44,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039058,CARETECH COMMUNITY SERVICES LTD,-531.21,2014-01-10,2014,January
+45,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039059,CARETECH COMMUNITY SERVICES LTD,789.81,2014-01-10,2014,January
+46,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039060,CARETECH COMMUNITY SERVICES LTD,4496.66,2014-01-10,2014,January
+47,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039061,CARETECH COMMUNITY SERVICES LTD,699.3,2014-01-10,2014,January
+48,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039062,CARETECH COMMUNITY SERVICES LTD,7375.71,2014-01-10,2014,January
+49,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039063,CARETECH COMMUNITY SERVICES LTD,6339.9,2014-01-10,2014,January
+50,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039064,CARETECH COMMUNITY SERVICES LTD,-531.21,2014-01-10,2014,January
+51,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039065,CARETECH COMMUNITY SERVICES LTD,789.81,2014-01-10,2014,January
+52,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039066,CARETECH COMMUNITY SERVICES LTD,4478.57,2014-01-10,2014,January
+53,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039067,CARETECH COMMUNITY SERVICES LTD,6439.16,2014-01-10,2014,January
+54,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039068,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+55,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039069,CARETECH COMMUNITY SERVICES LTD,7052.57,2014-01-10,2014,January
+56,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039070,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+57,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039071,CARETECH COMMUNITY SERVICES LTD,4478.57,2014-01-10,2014,January
+58,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039072,CARETECH COMMUNITY SERVICES LTD,6728.1,2014-01-10,2014,January
+59,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039073,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+60,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039074,CARETECH COMMUNITY SERVICES LTD,4896.17,2014-01-10,2014,January
+61,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039075,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+62,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039076,CARETECH COMMUNITY SERVICES LTD,1053.04,2014-01-10,2014,January
+63,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039077,CARETECH COMMUNITY SERVICES LTD,6124.29,2014-01-10,2014,January
+64,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039078,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+65,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039079,CARETECH COMMUNITY SERVICES LTD,5292.51,2014-01-10,2014,January
+66,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039080,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+67,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039081,CARETECH COMMUNITY SERVICES LTD,5635.71,2014-01-10,2014,January
+68,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039082,CARETECH COMMUNITY SERVICES LTD,-469.71,2014-01-10,2014,January
+69,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039083,CARETECH COMMUNITY SERVICES LTD,5292.51,2014-01-10,2014,January
+70,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039084,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+71,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039085,CARETECH COMMUNITY SERVICES LTD,1053.04,2014-01-10,2014,January
+72,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039086,CARETECH COMMUNITY SERVICES LTD,4235.91,2014-01-10,2014,January
+73,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039087,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+74,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039088,CARETECH COMMUNITY SERVICES LTD,5794.29,2014-01-10,2014,January
+75,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039089,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+76,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039090,CARETECH COMMUNITY SERVICES LTD,4896.17,2014-01-10,2014,January
+77,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039091,CARETECH COMMUNITY SERVICES LTD,-531.21,2014-01-10,2014,January
+78,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039092,CARETECH COMMUNITY SERVICES LTD,1053.04,2014-01-10,2014,January
+79,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039093,CARETECH COMMUNITY SERVICES LTD,2080.59,2014-01-10,2014,January
+80,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039094,CARETECH COMMUNITY SERVICES LTD,4628.57,2014-01-10,2014,January
+81,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039096,CARETECH COMMUNITY SERVICES LTD,1478.57,2014-01-10,2014,January
+82,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039097,CARETECH COMMUNITY SERVICES LTD,6844.29,2014-01-10,2014,January
+83,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039098,CARETECH COMMUNITY SERVICES LTD,-388.71,2014-01-10,2014,January
+84,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039129,CARETECH COMMUNITY SERVICES LTD,4661.79,2014-01-10,2014,January
+85,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039130,CARETECH COMMUNITY SERVICES LTD,-342.21,2014-01-10,2014,January
+86,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039131,CARETECH COMMUNITY SERVICES LTD,2506.2,2014-01-10,2014,January
+87,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038960,CARLTON COURT (TLC GROUP),2144.91,2014-01-10,2014,January
+88,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038961,CARLTON COURT (TLC GROUP),2487.77,2014-01-10,2014,January
+89,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038962,CARLTON COURT (TLC GROUP),2340.04,2014-01-10,2014,January
+90,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038963,CARLTON COURT (TLC GROUP),-531.21,2014-01-10,2014,January
+91,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038964,CARLTON COURT (TLC GROUP),2487.78,2014-01-10,2014,January
+92,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038965,CARLTON COURT (TLC GROUP),-539.19,2014-01-10,2014,January
+93,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038966,CARLTON COURT (TLC GROUP),2487.77,2014-01-10,2014,January
+94,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038967,CARLTON COURT (TLC GROUP),2487.77,2014-01-10,2014,January
+95,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038844,CARTREF CARE HOME,2001.98,2014-01-10,2014,January
+96,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038834,CHATSWORTH CARE,10264.29,2014-01-10,2014,January
+97,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038842,CHOICE CARE GROUP,8454.9,2014-01-10,2014,January
+98,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038843,CHOICE CARE GROUP,-342.21,2014-01-10,2014,January
+99,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038990,CLOVELLY HOUSE RESID. HOME LTD,2600.0,2014-01-10,2014,January
+100,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038991,CLOVELLY HOUSE RESID. HOME LTD,2600.0,2014-01-10,2014,January
+101,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038992,CLOVELLY HOUSE RESID. HOME LTD,2184.04,2014-01-10,2014,January
+102,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038993,CLOVELLY HOUSE RESID. HOME LTD,2380.0,2014-01-10,2014,January
+103,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038994,CLOVELLY HOUSE RESID. HOME LTD,2184.04,2014-01-10,2014,January
+104,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038995,CLOVELLY HOUSE RESID. HOME LTD,2184.04,2014-01-10,2014,January
+105,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038997,CLOVELLY HOUSE RESID. HOME LTD,-713.04,2014-01-10,2014,January
+106,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038958,CORE OUTREACH & CARE SERVICES UK LTD,1512.0,2014-01-10,2014,January
+107,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038959,CORE OUTREACH & CARE SERVICES UK LTD,1512.0,2014-01-10,2014,January
+108,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038835,CRAEGMOOR,3665.19,2014-01-10,2014,January
+109,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038836,CRAEGMOOR,-269.36,2014-01-10,2014,January
+110,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039124,DILLON CARE LTD,3900.0,2014-01-10,2014,January
+111,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038771,ELIZABETH FITZROY SUPPORT,-342.21,2014-01-10,2014,January
+112,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038860,ELIZABETH FITZROY SUPPORT,-342.21,2014-01-10,2014,January
+113,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038862,FERNBANK NURSING HOME.,2244.0,2014-01-10,2014,January
+114,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038863,FERNBANK NURSING HOME.,2244.0,2014-01-10,2014,January
+115,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038864,FERNBANK NURSING HOME.,2244.0,2014-01-10,2014,January
+116,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038865,FERNBANK NURSING HOME.,2244.0,2014-01-10,2014,January
+117,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038866,FERNBANK NURSING HOME.,2244.0,2014-01-10,2014,January
+118,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038867,FERNBANK NURSING HOME.,2244.0,2014-01-10,2014,January
+119,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038868,FERNBANK NURSING HOME.,2244.0,2014-01-10,2014,January
+120,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038869,FERNBANK NURSING HOME.,2244.0,2014-01-10,2014,January
+121,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038870,FERNBANK NURSING HOME.,2244.0,2014-01-10,2014,January
+122,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039033,FOUR SEASONS HEALTH CARE,2317.52,2014-01-10,2014,January
+123,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038856,GABRIEL COURT RESIDENTIAL HOME,2703.13,2014-01-10,2014,January
+124,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038857,GABRIEL COURT RESIDENTIAL HOME,-590.61,2014-01-10,2014,January
+125,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039001,GLENHOLME PSYCHIATRIC AFTER CARE HO,3964.89,2014-01-10,2014,January
+126,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039040,GLENHOLME PSYCHIATRIC AFTER CARE HO,3857.57,2014-01-10,2014,January
+127,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039128,GLENHOLME PSYCHIATRIC AFTER CARE HO,4071.43,2014-01-10,2014,January
+128,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038782,HARTWIG CARE LIMITED,743.22,2014-01-10,2014,January
+129,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038783,HARTWIG CARE LIMITED,678.9,2014-01-10,2014,January
+130,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038784,HARTWIG CARE LIMITED,860.3,2014-01-10,2014,January
+131,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038790,HARTWIG CARE LIMITED,690.19,2014-01-10,2014,January
+132,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038796,HARTWIG CARE LIMITED,1162.72,2014-01-10,2014,January
+133,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038800,HARTWIG CARE LIMITED,550.36,2014-01-10,2014,January
+134,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038801,HARTWIG CARE LIMITED,263.5,2014-01-10,2014,January
+135,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038803,HARTWIG CARE LIMITED,372.0,2014-01-10,2014,January
+136,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038805,HARTWIG CARE LIMITED,885.1,2014-01-10,2014,January
+137,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038806,HARTWIG CARE LIMITED,357.76,2014-01-10,2014,January
+138,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038807,HARTWIG CARE LIMITED,297.6,2014-01-10,2014,January
+139,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038808,HARTWIG CARE LIMITED,268.32,2014-01-10,2014,January
+140,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038809,HARTWIG CARE LIMITED,568.56,2014-01-10,2014,January
+141,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038810,HARTWIG CARE LIMITED,260.4,2014-01-10,2014,January
+142,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038812,HARTWIG CARE LIMITED,715.32,2014-01-10,2014,January
+143,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038813,HARTWIG CARE LIMITED,1364.0,2014-01-10,2014,January
+144,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038815,HARTWIG CARE LIMITED,2242.2,2014-01-10,2014,January
+145,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038816,HARTWIG CARE LIMITED,499.11,2014-01-10,2014,January
+146,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038817,HARTWIG CARE LIMITED,471.54,2014-01-10,2014,January
+147,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038819,HARTWIG CARE LIMITED,1416.8,2014-01-10,2014,January
+148,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038820,HARTWIG CARE LIMITED,434.0,2014-01-10,2014,January
+149,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038821,HARTWIG CARE LIMITED,586.24,2014-01-10,2014,January
+150,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038822,HARTWIG CARE LIMITED,804.96,2014-01-10,2014,January
+151,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038825,HARTWIG CARE LIMITED,357.76,2014-01-10,2014,January
+152,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038827,HARTWIG CARE LIMITED,626.08,2014-01-10,2014,January
+153,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039030,HOLLY HOUSE RESIDENTIAL CARE HOME,3642.85,2014-01-10,2014,January
+154,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039043,HOLLY HOUSE RESIDENTIAL CARE HOME,3421.02,2014-01-10,2014,January
+155,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038969,HOME FARM TRUST LTD,8034.76,2014-01-10,2014,January
+156,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038970,HOME FARM TRUST LTD,-319.4,2014-01-10,2014,January
+157,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038973,HOME FARM TRUST LTD,2657.4,2014-01-10,2014,January
+158,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038974,HOME FARM TRUST LTD,-319.4,2014-01-10,2014,January
+159,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038775,JANITH HOMES LTD,2564.7,2014-01-10,2014,January
+160,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038776,JANITH HOMES LTD,-342.3,2014-01-10,2014,January
+161,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038739,KEMBLE HOUSE,7928.7,2014-01-10,2014,January
+162,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038742,KEMBLE HOUSE,9368.1,2014-01-10,2014,January
+163,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,20011992,KENWARD TRUST,337.14,2014-01-10,2014,January
+164,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038833,LEO BAECK HOUSING ASSOC. LTD,2144.91,2014-01-10,2014,January
+165,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038998,LEO BAECK HOUSING ASSOC. LTD,2144.91,2014-01-10,2014,January
+166,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038999,LEO BAECK HOUSING ASSOC. LTD,2144.91,2014-01-10,2014,January
+167,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039115,LEWIS.W.HAMMERSON MEMORIAL HOME,2144.92,2014-01-10,2014,January
+168,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039116,LEWIS.W.HAMMERSON MEMORIAL HOME,-876.69,2014-01-10,2014,January
+169,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039117,LEWIS.W.HAMMERSON MEMORIAL HOME,2144.92,2014-01-10,2014,January
+170,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039118,LEWIS.W.HAMMERSON MEMORIAL HOME,-526.46,2014-01-10,2014,January
+171,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039119,LEWIS.W.HAMMERSON MEMORIAL HOME,2144.91,2014-01-10,2014,January
+172,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039120,LEWIS.W.HAMMERSON MEMORIAL HOME,2144.91,2014-01-10,2014,January
+173,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039121,LEWIS.W.HAMMERSON MEMORIAL HOME,2144.92,2014-01-10,2014,January
+174,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039122,LEWIS.W.HAMMERSON MEMORIAL HOME,-642.13,2014-01-10,2014,January
+175,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039123,LEWIS.W.HAMMERSON MEMORIAL HOME,2144.91,2014-01-10,2014,January
+176,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038838,LONG FURROWS RESIDENTIAL CARE HOME,4105.24,2014-01-10,2014,January
+177,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038839,LONG FURROWS RESIDENTIAL CARE HOME,-531.21,2014-01-10,2014,January
+178,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039104,MACINTYRE CARE,4015.72,2014-01-10,2014,January
+179,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039105,MACINTYRE CARE,-319.4,2014-01-10,2014,January
+180,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039106,MACINTYRE CARE,2332.48,2014-01-10,2014,January
+181,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039107,MACINTYRE CARE,-319.4,2014-01-10,2014,January
+182,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039108,MACINTYRE CARE,750.4,2014-01-10,2014,January
+183,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039109,MACINTYRE CARE,3812.84,2014-01-10,2014,January
+184,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039110,MACINTYRE CARE,-319.4,2014-01-10,2014,January
+185,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039111,MACINTYRE CARE,3570.16,2014-01-10,2014,January
+186,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039112,MACINTYRE CARE,-319.4,2014-01-10,2014,January
+187,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039113,MACINTYRE CARE,2326.48,2014-01-10,2014,January
+188,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039114,MACINTYRE CARE,-319.4,2014-01-10,2014,January
+189,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038847,MARYVILLE CARE HOME,2431.67,2014-01-10,2014,January
+190,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038848,MARYVILLE CARE HOME,-531.21,2014-01-10,2014,January
+191,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039042,MAYFIELD ADULT SERVICES,9557.14,2014-01-10,2014,January
+192,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038852,MEADOWBANK TRUST,3096.21,2014-01-10,2014,January
+193,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038853,MEADOWBANK TRUST,-342.21,2014-01-10,2014,January
+194,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039041,MEERA NURSING HOME LIMITED,2244.13,2014-01-10,2014,January
+195,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039045,MEERA NURSING HOME LIMITED,2244.13,2014-01-10,2014,January
+196,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039046,MEERA NURSING HOME LIMITED,2245.67,2014-01-10,2014,January
+197,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039004,NAZARETH HOUSE,2144.91,2014-01-10,2014,January
+198,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039005,NAZARETH HOUSE,2144.91,2014-01-10,2014,January
+199,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039006,NAZARETH HOUSE,2839.71,2014-01-10,2014,January
+200,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039007,NAZARETH HOUSE,2340.04,2014-01-10,2014,January
+201,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039008,NAZARETH HOUSE,2216.01,2014-01-10,2014,January
+202,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038854,PARADISE HOUSE ASSOCIATION LTD,3401.31,2014-01-10,2014,January
+203,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038855,PARADISE HOUSE ASSOCIATION LTD,-342.21,2014-01-10,2014,January
+204,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038778,PARKCARE HOMES (NO2) LIMITED,5309.91,2014-01-10,2014,January
+205,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038779,PARKCARE HOMES (NO2) LIMITED,-342.21,2014-01-10,2014,January
+206,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038780,PARKCARE HOMES (NO2) LIMITED,4641.68,2014-01-10,2014,January
+207,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038781,PARKCARE HOMES (NO2) LIMITED,-342.21,2014-01-10,2014,January
+208,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038840,PARKCARE HOMES (NO2) LIMITED,4988.74,2014-01-10,2014,January
+209,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038841,PARKCARE HOMES (NO2) LIMITED,-342.21,2014-01-10,2014,January
+210,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039003,PLATINUM HEALTH RESOURCES LTD,4789.46,2014-01-10,2014,January
+211,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039018,PLATINUM HEALTH RESOURCES LTD,3642.86,2014-01-10,2014,January
+212,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039032,PLATINUM HEALTH RESOURCES LTD,3642.86,2014-01-10,2014,January
+213,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039044,QUEEN ANN CARE,3857.14,2014-01-10,2014,January
+214,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038845,RIDGEWAY NURSING HOME,2357.1,2014-01-10,2014,January
+215,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039034,ROLAND RESIDENTIAL CARE HOMES,3918.81,2014-01-10,2014,January
+216,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038977,ROLAND RESIDENTIAL CARE HOMES LTD,3121.2,2014-01-10,2014,January
+217,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039002,ROLAND RESIDENTIAL CARE HOMES LTD,3169.29,2014-01-10,2014,January
+218,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039026,ROLAND RESIDENTIAL CARE HOMES LTD,4061.14,2014-01-10,2014,January
+219,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039039,ROLAND RESIDENTIAL CARE HOMES LTD,3316.41,2014-01-10,2014,January
+220,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038735,SAXON COURT,2355.55,2014-01-10,2014,January
+221,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038736,SAXON COURT,-531.21,2014-01-10,2014,January
+222,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038737,SAXON COURT,2355.56,2014-01-10,2014,January
+223,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038738,SAXON COURT,-531.21,2014-01-10,2014,January
+224,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039010,SCIMITAR CARE HOTELS PLC,2665.71,2014-01-10,2014,January
+225,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039011,SCIMITAR CARE HOTELS PLC,-514.07,2014-01-10,2014,January
+226,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039038,SCIMITAR CARE HOTELS PLC,2340.04,2014-01-10,2014,January
+227,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038755,SCOPE,2903.88,2014-01-10,2014,January
+228,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038756,SCOPE,-342.21,2014-01-10,2014,January
+229,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,20011993,SHINE PARTNERSHIPS LTD,2640.0,2014-01-10,2014,January
+230,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038773,SIGN HEALTH,9857.14,2014-01-10,2014,January
+231,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038774,SIGN HEALTH,-264.43,2014-01-10,2014,January
+232,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038804,SIMEON CARE,3097.16,2014-01-10,2014,January
+233,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039012,SISTERS OF CHARITY SETON UNIT,2144.91,2014-01-10,2014,January
+234,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039013,SISTERS OF CHARITY SETON UNIT,-531.21,2014-01-10,2014,January
+235,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038828,SONESTA NURSING HOME LTD.,2244.13,2014-01-10,2014,January
+236,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038829,SONESTA NURSING HOME LTD.,2244.13,2014-01-10,2014,January
+237,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038830,SONESTA NURSING HOME LTD.,2041.67,2014-01-10,2014,January
+238,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038831,SONESTA NURSING HOME LTD.,2487.77,2014-01-10,2014,January
+239,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039095,ST AGNELL'S HOUSE (CARETECH),5978.57,2014-01-10,2014,January
+240,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038769,ST DOMINIC'S NURSING HOME,2094.52,2014-01-10,2014,January
+241,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039099,ST ELIZABETH'S CENTRE,10147.5,2014-01-10,2014,January
+242,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039100,ST ELIZABETH'S CENTRE,-375.63,2014-01-10,2014,January
+243,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039101,ST ELIZABETH'S CENTRE,4211.4,2014-01-10,2014,January
+244,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039102,ST ELIZABETH'S CENTRE,-531.21,2014-01-10,2014,January
+245,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039103,ST ELIZABETH'S CENTRE,11374.2,2014-01-10,2014,January
+246,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039027,ST VINCENT'S NURSING HOME,2144.91,2014-01-10,2014,January
+247,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039028,ST VINCENT'S NURSING HOME,-531.21,2014-01-10,2014,January
+248,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038980,ST.DAVIDS CARE IN THE,3801.9,2014-01-10,2014,January
+249,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038981,ST.DAVIDS CARE IN THE,-342.0,2014-01-10,2014,January
+250,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038765,STALLCOMBE HOUSE FARM TRUST,6472.0,2014-01-10,2014,January
+251,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038837,STOUR VALLEY CARE GROUP,5485.72,2014-01-10,2014,January
+252,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038766,STRIVING FOR INDEPENDENCE HOMES LLP,5828.57,2014-01-10,2014,January
+253,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038767,STRIVING FOR INDEPENDENCE HOMES LLP,-531.21,2014-01-10,2014,January
+254,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039126,TENTERDEN HOUSE,3834.6,2014-01-10,2014,January
+255,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039035,THE DISABILITIES TRUST,10682.4,2014-01-10,2014,January
+256,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039036,THE DISABILITIES TRUST,15407.74,2014-01-10,2014,January
+257,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039037,THE DISABILITIES TRUST,18415.71,2014-01-10,2014,January
+258,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038874,THE EXTRA MILE CARE CO LTD,306.82,2014-01-10,2014,January
+259,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038875,THE EXTRA MILE CARE CO LTD,1293.84,2014-01-10,2014,January
+260,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038877,THE EXTRA MILE CARE CO LTD,1150.72,2014-01-10,2014,January
+261,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038878,THE EXTRA MILE CARE CO LTD,330.5,2014-01-10,2014,January
+262,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038880,THE EXTRA MILE CARE CO LTD,770.1,2014-01-10,2014,January
+263,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038881,THE EXTRA MILE CARE CO LTD,537.08,2014-01-10,2014,January
+264,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038882,THE EXTRA MILE CARE CO LTD,813.59,2014-01-10,2014,January
+265,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038883,THE EXTRA MILE CARE CO LTD,703.84,2014-01-10,2014,January
+266,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038884,THE EXTRA MILE CARE CO LTD,449.82,2014-01-10,2014,January
+267,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038885,THE EXTRA MILE CARE CO LTD,959.05,2014-01-10,2014,January
+268,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038886,THE EXTRA MILE CARE CO LTD,941.58,2014-01-10,2014,January
+269,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038889,THE EXTRA MILE CARE CO LTD,613.64,2014-01-10,2014,January
+270,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038891,THE EXTRA MILE CARE CO LTD,767.34,2014-01-10,2014,January
+271,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038893,THE EXTRA MILE CARE CO LTD,687.44,2014-01-10,2014,January
+272,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038894,THE EXTRA MILE CARE CO LTD,383.38,2014-01-10,2014,January
+273,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038895,THE EXTRA MILE CARE CO LTD,425.96,2014-01-10,2014,January
+274,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038897,THE EXTRA MILE CARE CO LTD,921.04,2014-01-10,2014,January
+275,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038898,THE EXTRA MILE CARE CO LTD,1894.02,2014-01-10,2014,January
+276,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038899,THE EXTRA MILE CARE CO LTD,460.52,2014-01-10,2014,January
+277,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038900,THE EXTRA MILE CARE CO LTD,1010.8,2014-01-10,2014,January
+278,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038901,THE EXTRA MILE CARE CO LTD,476.28,2014-01-10,2014,January
+279,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038902,THE EXTRA MILE CARE CO LTD,306.82,2014-01-10,2014,January
+280,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038904,THE EXTRA MILE CARE CO LTD,325.22,2014-01-10,2014,January
+281,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038906,THE EXTRA MILE CARE CO LTD,997.02,2014-01-10,2014,January
+282,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038907,THE EXTRA MILE CARE CO LTD,759.4,2014-01-10,2014,January
+283,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038908,THE EXTRA MILE CARE CO LTD,306.82,2014-01-10,2014,January
+284,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038909,THE EXTRA MILE CARE CO LTD,317.28,2014-01-10,2014,January
+285,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038910,THE EXTRA MILE CARE CO LTD,590.02,2014-01-10,2014,January
+286,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038911,THE EXTRA MILE CARE CO LTD,1521.44,2014-01-10,2014,January
+287,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038912,THE EXTRA MILE CARE CO LTD,587.28,2014-01-10,2014,January
+288,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038914,THE EXTRA MILE CARE CO LTD,1031.64,2014-01-10,2014,January
+289,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038915,THE EXTRA MILE CARE CO LTD,460.52,2014-01-10,2014,January
+290,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038916,THE EXTRA MILE CARE CO LTD,383.38,2014-01-10,2014,January
+291,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038918,THE EXTRA MILE CARE CO LTD,436.66,2014-01-10,2014,January
+292,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038919,THE EXTRA MILE CARE CO LTD,472.41,2014-01-10,2014,January
+293,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038920,THE EXTRA MILE CARE CO LTD,306.82,2014-01-10,2014,January
+294,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038921,THE EXTRA MILE CARE CO LTD,515.58,2014-01-10,2014,January
+295,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038922,THE EXTRA MILE CARE CO LTD,1150.72,2014-01-10,2014,January
+296,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038923,THE EXTRA MILE CARE CO LTD,917.82,2014-01-10,2014,January
+297,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038924,THE EXTRA MILE CARE CO LTD,516.1,2014-01-10,2014,January
+298,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038925,THE EXTRA MILE CARE CO LTD,544.8,2014-01-10,2014,January
+299,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038926,THE EXTRA MILE CARE CO LTD,510.62,2014-01-10,2014,January
+300,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038927,THE EXTRA MILE CARE CO LTD,2586.52,2014-01-10,2014,January
+301,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038928,THE EXTRA MILE CARE CO LTD,489.46,2014-01-10,2014,January
+302,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038929,THE EXTRA MILE CARE CO LTD,383.38,2014-01-10,2014,January
+303,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038931,THE EXTRA MILE CARE CO LTD,766.76,2014-01-10,2014,January
+304,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038932,THE EXTRA MILE CARE CO LTD,383.38,2014-01-10,2014,January
+305,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038933,THE EXTRA MILE CARE CO LTD,843.9,2014-01-10,2014,January
+306,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038934,THE EXTRA MILE CARE CO LTD,1457.54,2014-01-10,2014,January
+307,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038935,THE EXTRA MILE CARE CO LTD,3175.48,2014-01-10,2014,January
+308,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038937,THE EXTRA MILE CARE CO LTD,748.62,2014-01-10,2014,January
+309,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038938,THE EXTRA MILE CARE CO LTD,285.64,2014-01-10,2014,January
+310,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038939,THE EXTRA MILE CARE CO LTD,1457.54,2014-01-10,2014,January
+311,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038940,THE EXTRA MILE CARE CO LTD,1534.68,2014-01-10,2014,January
+312,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038941,THE EXTRA MILE CARE CO LTD,690.2,2014-01-10,2014,January
+313,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038944,THE EXTRA MILE CARE CO LTD,1299.18,2014-01-10,2014,January
+314,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038945,THE EXTRA MILE CARE CO LTD,306.82,2014-01-10,2014,January
+315,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038946,THE EXTRA MILE CARE CO LTD,518.42,2014-01-10,2014,January
+316,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038947,THE EXTRA MILE CARE CO LTD,2251.14,2014-01-10,2014,January
+317,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038948,THE EXTRA MILE CARE CO LTD,928.62,2014-01-10,2014,January
+318,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038949,THE EXTRA MILE CARE CO LTD,383.38,2014-01-10,2014,January
+319,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038950,THE EXTRA MILE CARE CO LTD,767.34,2014-01-10,2014,January
+320,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038952,THE EXTRA MILE CARE CO LTD,460.52,2014-01-10,2014,January
+321,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038953,THE EXTRA MILE CARE CO LTD,370.36,2014-01-10,2014,January
+322,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038954,THE EXTRA MILE CARE CO LTD,843.9,2014-01-10,2014,January
+323,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038955,THE EXTRA MILE CARE CO LTD,1987.26,2014-01-10,2014,January
+324,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038956,THE EXTRA MILE CARE CO LTD,833.32,2014-01-10,2014,January
+325,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039031,THE REGARD PARTNERSHIP LTD,7781.27,2014-01-10,2014,January
+326,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038846,THE WELL HOUSE,4350.0,2014-01-10,2014,January
+327,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038979,THOUGHTS OF OTHERS LTD,6336.36,2014-01-10,2014,January
+328,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038858,TOWERTREND LTD,3214.29,2014-01-10,2014,January
+329,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038982,VOYAGE CARE,5571.43,2014-01-10,2014,January
+330,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038983,VOYAGE CARE,-509.79,2014-01-10,2014,January
+331,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038984,VOYAGE CARE,4714.28,2014-01-10,2014,January
+332,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038985,VOYAGE CARE,-388.71,2014-01-10,2014,January
+333,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038986,VOYAGE CARE,7234.28,2014-01-10,2014,January
+334,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038987,VOYAGE CARE,-342.21,2014-01-10,2014,January
+335,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039125,VOYAGE LTD (SOLOR CARE),6342.26,2014-01-10,2014,January
+336,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30036917,WALSINGHAM,5476.15,2014-01-10,2014,January
+337,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30036918,WALSINGHAM,-531.2,2014-01-10,2014,January
+338,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30036919,WALSINGHAM,342.21,2014-01-10,2014,January
+339,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30036920,WALSINGHAM,-5476.15,2014-01-10,2014,January
+340,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038743,WALSINGHAM,5299.5,2014-01-10,2014,January
+341,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038744,WALSINGHAM,-531.21,2014-01-10,2014,January
+342,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038745,WALSINGHAM,5299.5,2014-01-10,2014,January
+343,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038746,WALSINGHAM,-342.21,2014-01-10,2014,January
+344,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038747,WALSINGHAM,3120.9,2014-01-10,2014,January
+345,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038748,WALSINGHAM,-425.57,2014-01-10,2014,January
+346,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038749,WALSINGHAM,3120.9,2014-01-10,2014,January
+347,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038750,WALSINGHAM,-342.21,2014-01-10,2014,January
+348,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038751,WALSINGHAM,3120.9,2014-01-10,2014,January
+349,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038752,WALSINGHAM,-342.21,2014-01-10,2014,January
+350,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038762,WILSMERE HOUSE CARE CENTRE,4818.73,2014-01-10,2014,January
+351,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038763,WILSMERE HOUSE CARE CENTRE,5247.0,2014-01-10,2014,January
+352,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038764,WILSMERE HOUSE CARE CENTRE,5357.14,2014-01-10,2014,January
+353,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038760,YOUNG FOUNDATIONS LTD,12642.9,2014-01-10,2014,January
+354,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30038761,YOUNG FOUNDATIONS LTD,-277.71,2014-01-10,2014,January
+355,Delivery Unit,Adults and Communities,Private Contractors - Third Party Payments,10010062,GREENWICH LEISURE LTD,92215.84,2014-01-10,2014,January
+356,Delivery Unit,Childrens Services,Capital Construction and Works,10010119,D LONG (CONSTRUCTION) LTD,57883.63,2014-01-10,2014,January
+357,Delivery Unit,Childrens Services,Equipment and Materials Purchase,10009563,BLACKBOURNE INTEGRATED M&E,84014.68,2014-01-10,2014,January
+358,Delivery Unit,Childrens Services,Equipment and Materials Purchase,10009807,LOVELOCK & TAYLOUR LTD,83233.62,2014-01-10,2014,January
+359,Delivery Unit,Childrens Services,Equipment and Materials Purchase,10009817,LOVELOCK & TAYLOUR LTD,38943.09,2014-01-10,2014,January
+360,Delivery Unit,Childrens Services,Equipment and Materials Purchase,10009818,LOVELOCK & TAYLOUR LTD,55446.55,2014-01-10,2014,January
+361,Delivery Unit,Childrens Services,Professional Services,10009862,MOTT MACDONALD LTD,1307.54,2014-01-10,2014,January
+362,Delivery Unit,Childrens Services,Professional Services,10009865,MOTT MACDONALD LTD,627.6,2014-01-10,2014,January
+363,Delivery Unit,Commercial,Other Services,10009197,CONWAY AECOM LTD,70000.0,2014-01-10,2014,January
+364,Delivery Unit,Commercial,Other Services,10009204,CONWAY AECOM LTD,5000.0,2014-01-10,2014,January
+365,Delivery Unit,Commercial,Other Services,10009205,CONWAY AECOM LTD,19050.0,2014-01-10,2014,January
+366,Delivery Unit,Commercial,Other Services,10009206,CONWAY AECOM LTD,15000.0,2014-01-10,2014,January
+367,Delivery Unit,Commercial,Other Services,10009207,CONWAY AECOM LTD,4523.88,2014-01-10,2014,January
+368,Delivery Unit,Commercial,Other Services,10009237,CONWAY AECOM LTD,737.3,2014-01-10,2014,January
+369,Delivery Unit,Commercial,Other Services,10009238,CONWAY AECOM LTD,467.15,2014-01-10,2014,January
+370,Delivery Unit,Commercial,Other Services,10009725,CONWAY AECOM LTD,186744.79,2014-01-10,2014,January
+371,Delivery Unit,Commercial,Other Services,10009727,CONWAY AECOM LTD,20698.48,2014-01-10,2014,January
+372,Delivery Unit,Commercial,Other Services,10009730,CONWAY AECOM LTD,2320.32,2014-01-10,2014,January
+373,Delivery Unit,Education,Food Costs,10009720,BRAKE BROS ( FROZEN FOODS) LTD,893.25,2014-01-10,2014,January
+374,Delivery Unit,Family Services,Books-CDs-Audio-Video,30038703,ASKEWS & HOLTS LIBRARY SERVICES LTD,563.65,2014-01-10,2014,January
+375,Delivery Unit,Family Services,Books-CDs-Audio-Video,30038709,ASKEWS & HOLTS LIBRARY SERVICES LTD,645.14,2014-01-10,2014,January
+376,Delivery Unit,Family Services,Books-CDs-Audio-Video,30038718,ASKEWS & HOLTS LIBRARY SERVICES LTD,668.55,2014-01-10,2014,January
+377,Delivery Unit,Family Services,Furniture-Purchase-Repair,10008969,DEMCO WORLDWIDE LTD.,455.85,2014-01-10,2014,January
+378,Delivery Unit,Family Services,Other Agencies - Third Party Payments,10007612,AJ'S ONLY,296.0,2014-01-10,2014,January
+379,Delivery Unit,Family Services,Other Agencies - Third Party Payments,10009549,FAIR PLAY BARNET,25104.0,2014-01-10,2014,January
+380,Delivery Unit,Family Services,Other Agencies - Third Party Payments,10009551,FAIR PLAY BARNET,1525.0,2014-01-10,2014,January
+381,Delivery Unit,Family Services,Other Agencies - Third Party Payments,10009552,FAIR PLAY BARNET,2545.0,2014-01-10,2014,January
+382,Delivery Unit,Family Services,Other Agencies - Third Party Payments,10009553,FAIR PLAY BARNET,3944.0,2014-01-10,2014,January
+383,Delivery Unit,Family Services,Other Agencies - Third Party Payments,10009509,HOME START BARNET,24500.0,2014-01-10,2014,January
+384,Delivery Unit,Family Services,Other Agencies - Third Party Payments,10009275,NATIONAL FOSTERING AGENCY,3105.27,2014-01-10,2014,January
+385,Delivery Unit,Family Services,Other Transfer Payments to Soc,10010067,INTRANSIT LOGISTICS,280.0,2014-01-10,2014,January
+386,Delivery Unit,Family Services,Professional Services,10010076,REDACTED - PERSONAL DATA,350.0,2014-01-10,2014,January
+387,Delivery Unit,Family Services,Training,10010069,CENTRAL LONDONCOMMUNITY HEALTHCARE,550.0,2014-01-10,2014,January
+388,Delivery Unit,Family Services,Training,10010070,OPEN UNIVERSITY,920.0,2014-01-10,2014,January
+389,Delivery Unit,Re,Other Services,10009241,CONWAY AECOM LTD,12000.0,2014-01-10,2014,January
+390,Delivery Unit,Re,Other Services,10009243,CONWAY AECOM LTD,7500.0,2014-01-10,2014,January
+391,Delivery Unit,Street Scene,Building Repairs & Maintenance,10010066,DAY PLANT HIRE CO LIMITED,318.6,2014-01-10,2014,January
+392,Delivery Unit,Street Scene,Building Repairs & Maintenance,10010001,KIRKMAN & JOURDAIN LTD,1258.54,2014-01-10,2014,January
+393,Delivery Unit,Street Scene,Equipment and Materials Purchase,10009989,DENNIS EAGLE,429.1,2014-01-10,2014,January
+394,Delivery Unit,Street Scene,Equipment and Materials Purchase,10009990,DENNIS EAGLE,355.64,2014-01-10,2014,January
+395,Delivery Unit,Street Scene,Equipment and Materials Purchase,10010011,GEORGE BROWNS IMPLEMENTS LTD,339.9,2014-01-10,2014,January
+396,Delivery Unit,Street Scene,Equipment and Materials Purchase,10010012,GEORGE BROWNS IMPLEMENTS LTD,660.0,2014-01-10,2014,January
+397,Delivery Unit,Street Scene,Equipment and Materials Purchase,10010014,GEORGE BROWNS IMPLEMENTS LTD,576.42,2014-01-10,2014,January
+398,Delivery Unit,Street Scene,Equipment and Materials Purchase,10010020,GEORGE BROWNS IMPLEMENTS LTD,614.06,2014-01-10,2014,January
+399,Delivery Unit,Street Scene,Equipment and Materials Purchase,10010023,GEORGE BROWNS IMPLEMENTS LTD,822.2,2014-01-10,2014,January
+400,Delivery Unit,Street Scene,Equipment and Materials Purchase,10010031,GEORGE BROWNS IMPLEMENTS LTD,341.05,2014-01-10,2014,January
+401,Delivery Unit,Street Scene,Equipment and Materials Purchase,10009704,SHEENS CLEANING SERVICES,5069.0,2014-01-10,2014,January
+402,Delivery Unit,Street Scene,Equipment and Materials Purchase,10010106,TENNANT UK CLEANING SOLUTIONS LTD,492.42,2014-01-10,2014,January
+403,Delivery Unit,Street Scene,Grounds maintenance,10010065,CITY SUBURBAN TREE SURGEONS LTD,15862.6,2014-01-10,2014,January
+404,Delivery Unit,Street Scene,Grounds maintenance,10010064,IRIS GARDENING SERVICES LTD,4333.12,2014-01-10,2014,January
+405,Delivery Unit,Street Scene,Operating Leases - Transport,10009570,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+406,Delivery Unit,Street Scene,Operating Leases - Transport,10009571,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+407,Delivery Unit,Street Scene,Operating Leases - Transport,10009572,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+408,Delivery Unit,Street Scene,Operating Leases - Transport,10009574,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+409,Delivery Unit,Street Scene,Operating Leases - Transport,10009575,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+410,Delivery Unit,Street Scene,Operating Leases - Transport,10009576,DAWSON RENTALS BUS & COACH LTD,338.93,2014-01-10,2014,January
+411,Delivery Unit,Street Scene,Operating Leases - Transport,10009577,DAWSON RENTALS BUS & COACH LTD,338.93,2014-01-10,2014,January
+412,Delivery Unit,Street Scene,Operating Leases - Transport,10009578,DAWSON RENTALS BUS & COACH LTD,338.93,2014-01-10,2014,January
+413,Delivery Unit,Street Scene,Operating Leases - Transport,10009579,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+414,Delivery Unit,Street Scene,Operating Leases - Transport,10009580,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+415,Delivery Unit,Street Scene,Operating Leases - Transport,10009581,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+416,Delivery Unit,Street Scene,Operating Leases - Transport,10009582,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+417,Delivery Unit,Street Scene,Operating Leases - Transport,10009735,DAWSON RENTALS BUS & COACH LTD,499.71,2014-01-10,2014,January
+418,Delivery Unit,Street Scene,Operating Leases - Transport,10009736,DAWSON RENTALS BUS & COACH LTD,499.71,2014-01-10,2014,January
+419,Delivery Unit,Street Scene,Operating Leases - Transport,10009737,DAWSON RENTALS BUS & COACH LTD,499.71,2014-01-10,2014,January
+420,Delivery Unit,Street Scene,Operating Leases - Transport,10009738,DAWSON RENTALS BUS & COACH LTD,499.71,2014-01-10,2014,January
+421,Delivery Unit,Street Scene,Operating Leases - Transport,10009739,DAWSON RENTALS BUS & COACH LTD,499.71,2014-01-10,2014,January
+422,Delivery Unit,Street Scene,Operating Leases - Transport,10009740,DAWSON RENTALS BUS & COACH LTD,1281.85,2014-01-10,2014,January
+423,Delivery Unit,Street Scene,Operating Leases - Transport,10009891,DAWSON RENTALS BUS & COACH LTD,338.93,2014-01-10,2014,January
+424,Delivery Unit,Street Scene,Operating Leases - Transport,10009525,F G ROWLAND LTD,1196.0,2014-01-10,2014,January
+425,Delivery Unit,Street Scene,Operating Leases - Transport,10009526,F G ROWLAND LTD,1196.0,2014-01-10,2014,January
+426,Delivery Unit,Street Scene,Operating Leases - Transport,10009527,F G ROWLAND LTD,1390.0,2014-01-10,2014,January
+427,Delivery Unit,Street Scene,Operating Leases - Transport,10009528,F G ROWLAND LTD,1196.0,2014-01-10,2014,January
+428,Delivery Unit,Street Scene,Transport Hire Charges,10009939,AMAC EXPRESS SERVICES,683.0,2014-01-10,2014,January
+429,Delivery Unit,Street Scene,Vehicle Running Costs,10010003,HARVEST ENERGY LTD,21102.0,2014-01-10,2014,January
+430,Delivery Unit,Street Scene,Vehicle Running Costs,10010005,HARVEST ENERGY LTD,20996.65,2014-01-10,2014,January
+431,Delivery Unit,Street Scene,Water Services,10009951,AFFINITY WATER LIMITED,389.69,2014-01-10,2014,January
+432,Delivery Unit,Street Scene,Water Services,10009640,THAMES WATER UTILITIES LIMITED,578.23,2014-01-10,2014,January
+433,Support Service,CSG Managed Budget,Gas,10009906,KENT COUNTY COUNCIL (KCS),1279.03,2014-01-10,2014,January
+434,Support Service,CSG Managed Budget,Grounds maintenance,10010107,THE HONEYWAGON CO.,1255.63,2014-01-10,2014,January
+435,Support Service,CSG,Building Repairs & Maintenance,10009870,T.&.D.BARRS,8569.0,2014-01-10,2014,January
+436,Support Service,CSG,Building Repairs & Maintenance,10009872,T.&.D.BARRS,656.0,2014-01-10,2014,January
+437,,,Various,30038871,ABBEY RAVENSCROFT PARK NURSING HOME,2487.77,2014-01-10,2014,January
+438,,,Various,10010088,BRITISH ASSOCIATION  FOR ADOPTION &,5728.32,2014-01-10,2014,January
+439,,,Various,30038996,CLOVELLY HOUSE RESID. HOME LTD,6552.12,2014-01-10,2014,January
+440,,,Various,30038770,ELIZABETH FITZROY SUPPORT,5206.89,2014-01-10,2014,January
+441,,,Various,30038859,ELIZABETH FITZROY SUPPORT,4830.56,2014-01-10,2014,January
+442,,,Various,30038777,HARTWIG CARE LIMITED,369.63,2014-01-10,2014,January
+443,,,Various,30038785,HARTWIG CARE LIMITED,845.59,2014-01-10,2014,January
+444,,,Various,30038792,HARTWIG CARE LIMITED,2441.84,2014-01-10,2014,January
+445,,,Various,30038797,HARTWIG CARE LIMITED,463.3,2014-01-10,2014,January
+446,,,Various,30038802,HARTWIG CARE LIMITED,944.0,2014-01-10,2014,January
+447,,,Various,10009873,SOLACE WOMEN'S AID,1440.0,2014-01-10,2014,January
+448,,,Various,30038832,SONESTA NURSING HOME LTD.,5058.47,2014-01-10,2014,January
+449,,,Various,30038879,THE EXTRA MILE CARE CO LTD,380.94,2014-01-10,2014,January
+450,,,Various,30038913,THE EXTRA MILE CARE CO LTD,537.14,2014-01-10,2014,January
+451,,,Various,30038753,WALSINGHAM,4334.4,2014-01-10,2014,January
+452,,,Various,30038754,WALSINGHAM,1793.1,2014-01-10,2014,January
+453,,,Various,30038757,WESTMINSTER HEALTH CARE LTD,9056.1,2014-01-10,2014,January
+454,Central Expenses,Central Expenses,Insurance Claims,20012034,HAMPSON HUGHES SOLICITORS,6800.0,2014-02-10,2014,February
+455,Central Expenses,Central Expenses,Joint Authorities - Third Party Payments,EBX0025801,NORTH LONDON WASTE AUTHORITY,943693.0,2014-02-10,2014,February
+456,Commissioning Group,Commercial,Consultants Fees,10010185,BADENOCH CLARK,16800.0,2014-02-10,2014,February
+457,Commissioning Group,Deputy Chief Operating Officer,Consultants Fees,10001715,OFFICE FOR PUBLIC MANAGEMENT,8806.25,2014-02-10,2014,February
+458,Commissioning Group,Deputy Chief Operating Officer,Employee Expenses,10009486,SUE HILL RECRUITMENT & SERVICES LTD,727.54,2014-02-10,2014,February
+459,Commissioning Group,Deputy Chief Operating Officer,Employee Expenses,10009491,SUE HILL RECRUITMENT & SERVICES LTD,727.54,2014-02-10,2014,February
+460,Corporate Accounting,Control Accounts,Other Agencies - Third Party Payments,10010072,CITIBANK NA LONDON,3478.21,2014-02-10,2014,February
+461,Delivery Unit,Adults and Communities,Consultants Fees,10010096,VOICEABILITY,2308.0,2014-02-10,2014,February
+462,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039768,ABOUT ME CARE & SUPPORT LTD,1365.84,2014-02-10,2014,February
+463,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039853,ALLIED HEALTHCARE LTD,4253.14,2014-02-10,2014,February
+464,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039811,ASHTON LODGE CARE CENTRE,2340.04,2014-02-10,2014,February
+465,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039826,ASHTON LODGE CARE CENTRE,2487.77,2014-02-10,2014,February
+466,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039827,ASHTON LODGE CARE CENTRE,2290.71,2014-02-10,2014,February
+467,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039829,ASHTON LODGE CARE CENTRE,2409.42,2014-02-10,2014,February
+468,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039830,ASHTON LODGE CARE CENTRE,-342.21,2014-02-10,2014,February
+469,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039842,ASHTON LODGE CARE CENTRE,2245.67,2014-02-10,2014,February
+470,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039844,ASHTON LODGE CARE CENTRE,2244.13,2014-02-10,2014,February
+471,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039845,ASHTON LODGE CARE CENTRE,-714.56,2014-02-10,2014,February
+472,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039849,ASHTON LODGE CARE CENTRE,2245.67,2014-02-10,2014,February
+473,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039850,ASHTON LODGE CARE CENTRE,-554.23,2014-02-10,2014,February
+474,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039860,ASHTON LODGE CARE CENTRE,2340.04,2014-02-10,2014,February
+475,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039839,ASPEN VILLAGES LTD,2144.91,2014-02-10,2014,February
+476,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039840,ASPEN VILLAGES LTD,2487.77,2014-02-10,2014,February
+477,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039841,ASPEN VILLAGES LTD,3214.29,2014-02-10,2014,February
+478,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039806,BRADBURY HOUSE ORGANISATION,3349.07,2014-02-10,2014,February
+479,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039807,BRADBURY HOUSE ORGANISATION,-342.21,2014-02-10,2014,February
+480,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039833,BUPA CARE HOMES,2144.92,2014-02-10,2014,February
+481,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039834,BUPA CARE HOMES,-509.79,2014-02-10,2014,February
+482,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039835,BUPA CARE HOMES,2243.4,2014-02-10,2014,February
+483,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039836,BUPA CARE HOMES,2363.87,2014-02-10,2014,February
+484,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039837,BUPA CARE HOMES,2487.77,2014-02-10,2014,February
+485,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039838,BUPA CARE HOMES,2487.77,2014-02-10,2014,February
+486,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039795,CAREBASE BURNT OAK 2006 LIMITED,2244.13,2014-02-10,2014,February
+487,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039796,CAREBASE BURNT OAK 2006 LIMITED,2487.77,2014-02-10,2014,February
+488,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039797,CAREBASE BURNT OAK 2006 LIMITED,2487.77,2014-02-10,2014,February
+489,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039798,CAREBASE BURNT OAK 2006 LIMITED,2505.0,2014-02-10,2014,February
+490,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039799,CAREBASE BURNT OAK 2006 LIMITED,2487.77,2014-02-10,2014,February
+491,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039800,CAREBASE BURNT OAK 2006 LIMITED,2244.13,2014-02-10,2014,February
+492,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039801,CAREBASE BURNT OAK 2006 LIMITED,2227.8,2014-02-10,2014,February
+493,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039802,CAREBASE BURNT OAK 2006 LIMITED,2245.67,2014-02-10,2014,February
+494,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039803,CAREBASE BURNT OAK 2006 LIMITED,2340.04,2014-02-10,2014,February
+495,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039804,CAREBASE BURNT OAK 2006 LIMITED,2487.77,2014-02-10,2014,February
+496,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039805,CAREBASE BURNT OAK 2006 LIMITED,2340.04,2014-02-10,2014,February
+497,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039813,CEDARS NURSING HOME,2487.77,2014-02-10,2014,February
+498,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039814,CEDARS NURSING HOME,2487.77,2014-02-10,2014,February
+499,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039815,CEDARS NURSING HOME,2487.77,2014-02-10,2014,February
+500,Delivery Unit,Adults and Communities,Other Agencies - Third Party Payments,30039816,CEDARS NURSING HOME,2244.13,2014-02-10,2014,February

@@ -63,9 +63,7 @@ def yearly_expenditure_barchart(dataframe):
 
 # Pie chart plot of the top 5 sum of expenditure of a given column
 def plot_pei_chart(dataframe):
-    print('inside --------------')
     dataframe = get_sum_of_one_given_column(dataframe, 'directorate')
-    print(dataframe.head(4))
     fig = px.pie(dataframe[:5], values='sum_of_expenditure',
                  names='col_name', title='')
     fig.update_layout(margin=dict(t=0, b=0, l=0, r=0))
