@@ -25,7 +25,7 @@ def get_sum_of_one_given_column(dataframe, col_name):
     return data
 
 
-def time_series(dataframe):
+def time_series(dataframe, x_title="", y_title=""):
     data = get_sum_of_one_given_column(
         dataframe=dataframe, col_name='payment_date')
 
@@ -43,19 +43,32 @@ def time_series(dataframe):
             ])
         )
     )
+    fig.update_layout(
+        xaxis_title=x_title,
+        yaxis_title=y_title,
+    )
 
     plot_div = plot(fig, output_type='div', include_plotlyjs=False)
     return plot_div
 
 
 # Plot bar chart you yearly expenditure
-def yearly_expenditure_barchart(dataframe):
+def yearly_expenditure_barchart(dataframe, x_title="", y_title=""):
     # As there is only one year of data I am representing months as year for demo
     data = get_sum_of_one_given_column(dataframe=dataframe, col_name='month')
-    fig = px.bar(data, y='sum_of_expenditure',
-                 x='col_name', text='sum_of_expenditure')
+    fig = px.bar(
+        data,
+        y='sum_of_expenditure',
+        x='col_name',
+        text='sum_of_expenditure',
+    )
     fig.update_traces(texttemplate='%{text:.2s}', textposition='outside')
-    fig.update_layout(uniformtext_minsize=8, uniformtext_mode='hide')
+    fig.update_layout(
+        uniformtext_minsize=8,
+        uniformtext_mode='hide',
+        xaxis_title=x_title,
+        yaxis_title=y_title,
+    )
 
     plot_div = plot(fig, output_type='div', include_plotlyjs=False)
     return plot_div
@@ -140,23 +153,37 @@ def plot_bar_chart(data, xlabel='', ylabel=''):
     return plot_div
 
 
-# A random Chart
-def get_chart():
-    axis_x = np.linspace(1, 101, 100)
-    axis_y = np.random.randn(100)
-    # number of graphs
-    trace1 = go.Scatter(x=axis_x, y=axis_y + 5, mode='lines', name='line')
-    trace2 = go.Scatter(x=axis_x, y=axis_y - 5,
-                        mode='lines+markers', name='scatter_line')
+def plot_group_bar_chart(dataframe):
 
-    # gathering data
-    data = [trace1, trace2]
-    # graph layour/styling
-    layout = go.Layout(
-        title='A Random Scatter Graph',
-    )
-    # making a figure consists => data, layout
-    fig = go.Figure(data=data, layout=layout)
+    data1 = get_sum_of_one_given_column(
+        dataframe=dataframe, col_name='vendor_name')
+    data2 = get_sum_of_one_given_column(
+        dataframe=dataframe, col_name='department')
+
+    data1 = data1[:10]
+    data2 = data2[:10]
+
+    print(data2.index)
+
+    fig = go.Figure()
+
+    fig.add_trace(go.Bar(
+        x=data1['col_name'],
+        y=data1['sum_of_expenditure'],
+        name='Vendor Expenditure Sum',
+        marker_color='indianred'
+    ))
+
+    fig.add_trace(go.Bar(
+        x=data1['col_name'],
+        y=data2['sum_of_expenditure'],
+        name='Vendor',
+        marker_color='lightsalmon'
+    ))
+
+    # Here we modify the tickangle of the xaxis, resulting in rotated labels.
+    fig.update_layout(barmode='group', xaxis_tickangle=-90)
+
     plot_div = plot(fig, output_type='div', include_plotlyjs=False)
     return plot_div
 

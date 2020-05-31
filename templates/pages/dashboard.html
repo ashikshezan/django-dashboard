@@ -22,9 +22,16 @@
             </div>
         </div>
         <div class="row grid-responsive">
-            <div class="column page-heading">
+            <div class="column column-60">
                 <div class="large-card">
                     <h1>Welcome to the Dashboard!</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis illo dolore eveniet illum
+                        ullam quisquam quasi natus nisi, saepe rerum odit reprehenderit qui esse itaque explicabo! Unde
+                        aliquam vitae in?</p>
+                </div>
+            </div>
+            <div class="column column-30">
+                <div class="large-card">
                     <form method="POST" enctype="multipart/form-data" novalidate>
                         {% csrf_token %}
                         {{ form.as_p}}
@@ -33,7 +40,7 @@
                 </div>
             </div>
         </div>
-        <h5></h5><a class="anchor" id="bar_chart_yearly" name="charts"></a>
+        <h5></h5><a class="anchor" id="bar-chart" name="charts"></a>
         <div class="row grid-responsive">
             <div class="column column-100">
                 <div class="card">
@@ -46,7 +53,7 @@
                 </div>
             </div>
         </div>
-        <h5></h5><a class="anchor" id="pie_plot_dropdown" name="charts"></a>
+        <h5></h5><a class="anchor" id="pie-chart" name="charts"></a>
         <div class="row grid-responsive">
             <div class="column column-100">
                 <div class="card">
@@ -59,7 +66,7 @@
                 </div>
             </div>
         </div>
-        <h5></h5><a class="anchor" id="time_series" name="time_series"></a>
+        <h5></h5><a class="anchor" id="time-series" name="time_series"></a>
         <div class="row grid-responsive">
             <div class="column column-100">
                 <div class="card">
@@ -72,15 +79,16 @@
                 </div>
             </div>
         </div>
-        <h5></h5><a class="anchor" id="time_series" name="time_series"></a>
+
+        <h5></h5><a class="anchor" id="bar-chart-group" name="time_series"></a>
         <div class="row grid-responsive">
             <div class="column column-100">
                 <div class="card">
                     <div class="card-title">
-                        <h2>Expenditure Timeseries</h2>
+                        <h2>Group Bar Chart</h2>
                     </div>
                     <div class="card-block">
-                        {{ pie_plot | safe }}
+                        {{ bar_chart_group | safe }}
                     </div>
                 </div>
             </div>

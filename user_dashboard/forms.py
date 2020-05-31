@@ -3,7 +3,7 @@ from django import forms
 
 
 class UploadForm(forms.Form):  # Note that it is not inheriting from forms.ModelForm
-    csv = forms.FileField()
+    csv = forms.FileField(label='Upload a valid CSV file')
 
     # def validate(self, value):
     #     # First run the parent class' validation routine

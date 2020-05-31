@@ -56,14 +56,27 @@ def dashboar_view(request, *args, **kwargs):
         df = format_datetime(df)
 
         # Creatings Charts
-        context['pie_plot'] = dashboard_plot_items.plot_pei_chart(
-            df)  # pie chart
+        context['time_series'] = dashboard_plot_items.time_series(
+            dataframe=df,
+            x_title="Time Series",
+            y_title="Sum of Expenditure"
+        )  # expenditure timeseries
+
+        context['bar_chart_yearly'] = dashboard_plot_items.yearly_expenditure_barchart(
+            dataframe=df,
+            x_title='Months',
+            y_title="Sum of expenditure"
+        )  # yearly expenditure bar chart
+
+        context['bar_chart_group'] = dashboard_plot_items.plot_group_bar_chart(
+            dataframe=df
+        )
+
         context['pie_plot_dropdown'] = dashboard_plot_items.dropdown_pie(
             dataframe=df)  # dropdown pie chart
-        context['bar_chart_yearly'] = dashboard_plot_items.yearly_expenditure_barchart(
-            dataframe=df)  # yearly expenditure bar chart
-        context['time_series'] = dashboard_plot_items.time_series(
-            dataframe=df)  # expenditure timeseries
+
+        context['pie_plot'] = dashboard_plot_items.plot_pei_chart(
+            df)  # pie chart
 
         return render(request, template_name='pages/dashboard.html', context=context)
 
