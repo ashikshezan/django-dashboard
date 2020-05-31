@@ -43,7 +43,8 @@ INSTALLED_APPS = [
 
     # project apps
     'user_dashboard.apps.UserDashboardConfig',
-    'users.apps.UsersConfig'
+    'users.apps.UsersConfig',
+    'post.apps.PostConfig',
 ]
 
 MIDDLEWARE = [

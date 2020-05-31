@@ -1,0 +1,31 @@
+{% extends 'user_dashboard/base.html' %}
+{% block graphs %}
+
+
+<div class="wrapper">
+	<div>
+
+		{% if t %}
+		<div style="width:200;height:100">
+			{{ t|safe }}
+		</div>
+		{% endif %}
+
+		One
+	</div>
+	<div>
+		{% if graph %}
+		<div style="width:200;height:100">
+			{{ graph|safe }}
+		</div>
+		{% endif %}
+		Two
+	</div>
+	<div>Three</div>
+	<div>Four</div>
+	<div>Five</div>
+	<div>Six</div>
+	<div>Seven</div>
+	<div>Eight</div>
+</div>
+{% endblock graphs %}
